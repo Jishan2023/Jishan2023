@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jishan2023
 - 👀 I’m interested in Competetive Programming And Problem Solver.
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Python Programming. 
 - 💞️ I’m looking to collaborate on increase my developing skill.
 - 📫 How to reach me it's very easy to reach me so if you are interested me feel free to knock me.
 
